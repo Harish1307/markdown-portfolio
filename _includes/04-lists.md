@@ -1,3 +1,3 @@
-Power systems 
-Power electronics 
-Electromagnetics
+- Power systems 
+- Power electronics 
+- Electromagnetics
